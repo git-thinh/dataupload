@@ -379,8 +379,8 @@
     <Content Include="xulrunner\xulrunner.exe" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Skybound.GeckoFX.src.v1.9.1.0\src\Skybound.Gecko\Skybound.Gecko.csproj">
-      <Project>{877D1A24-2D5E-4C46-A933-FCF11EA0403B}</Project>
+    <ProjectReference Include="..\Skybound.GeckoFX.src.v1.9.1.0\src\Skybound.Gecko\Skybound.Gecko.csproj">
+      <Project>{877d1a24-2d5e-4c46-a933-fcf11ea0403b}</Project>
       <Name>Skybound.Gecko</Name>
     </ProjectReference>
   </ItemGroup>
